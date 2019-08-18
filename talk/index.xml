@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | </title>
-    <link>/rgreinho/talk/</link>
-      <atom:link href="/rgreinho/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Aug 2019 14:00:00 +0000</lastBuildDate>
     <image>
-      <url>/rgreinho/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/rgreinho/talk/</link>
+      <link>/talk/</link>
     </image>
     
     <item>
       <title>Keep having fun maintaing your projects</title>
-      <link>/rgreinho/talk/having-fun-maintaining-projects/</link>
+      <link>/talk/having-fun-maintaining-projects/</link>
       <pubDate>Mon, 12 Aug 2019 14:00:00 +0000</pubDate>
-      <guid>/rgreinho/talk/having-fun-maintaining-projects/</guid>
+      <guid>/talk/having-fun-maintaining-projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Request Yo Racks: Lessons Learned</title>
-      <link>/rgreinho/talk/ryr-lessons-learned/</link>
+      <link>/talk/ryr-lessons-learned/</link>
       <pubDate>Mon, 03 Jun 2019 19:15:00 +0000</pubDate>
-      <guid>/rgreinho/talk/ryr-lessons-learned/</guid>
+      <guid>/talk/ryr-lessons-learned/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Public Data: The ScrAPD case</title>
-      <link>/rgreinho/talk/public-data-scrapd/</link>
+      <link>/talk/public-data-scrapd/</link>
       <pubDate>Mon, 04 Mar 2019 19:15:00 +0000</pubDate>
-      <guid>/rgreinho/talk/public-data-scrapd/</guid>
+      <guid>/talk/public-data-scrapd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Request Yo Racks: Project Leader Story</title>
-      <link>/rgreinho/talk/ryr-story/</link>
+      <link>/talk/ryr-story/</link>
       <pubDate>Mon, 16 Jul 2018 19:05:00 +0000</pubDate>
-      <guid>/rgreinho/talk/ryr-story/</guid>
+      <guid>/talk/ryr-story/</guid>
       <description></description>
     </item>
     
