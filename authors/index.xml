@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | </title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/rgreinho/authors/</link>
+      <atom:link href="/rgreinho/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/rgreinho/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>/rgreinho/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>/rgreinho/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>/rgreinho/authors/admin/</guid>
       <description>&lt;p&gt;Competent developer and system administrator with an analytic mind and a problem solving attitude. Security oriented. Passionate about automation. Strong commitment to team collaboration, innovation and personal improvement. Knowledge sharing through mentoring and leadership. Solid written and oral communication skills.&lt;/p&gt;
 </description>
     </item>
