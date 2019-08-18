@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Rémy Greinhofer
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Shipstation, Austin, TX
+  url: "https://www.shipstation.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Building communities and automation to simplify the world.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Automation
+- Cloud Computing
+- Communities
+- Mentorship
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Sc in Computer Science
+    institution: |
+      Université Paul Verlaine, Metz, France, 
+      including an exchange year at the University of Malta
+    year: 2007
+  - course: B.Sc in Computer Science
+    institution: Université Paul Verlaine, Metz, France
+    year: 2005
+  - course: University diploma in Computer Science
+    institution: Institut Universitaire de Technologie, Metz, France
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +47,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:remy@greinho.fr'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/remygreinhofer/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/rgreinho
+- icon: stack-overflow
+  icon_pack: fab
+  link: https://stackoverflow.com/users/51601/r%c3%a9my-greinhofer
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -65,11 +68,8 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Competent developer and system administrator with an analytic mind and a problem solving attitude. Security oriented. Passionate about automation. Strong commitment to team collaboration, innovation and personal improvement. Knowledge sharing through mentoring and leadership. Solid written and oral communication skills.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
