@@ -6,12 +6,18 @@ orbs:
 jobs:
   deploy:
     docker:
-      - image: cibuilds/base
+      - image: circleci/python:3.7
     steps:
+      - checkout
       - attach_workspace:
           at: my-site
+      - add_ssh_keys:
+          fingerprints:
+            02:55:fb:41:d1:ed:64:87:53:61:47:2f:b1:5f:f3:63
       - run: |
-          ghp-import -n -p -f -c remy.greinho.fr -r origin -m "Publish $(git describe)" public
+          export PATH=$PATH:/home/circleci/.local/bin
+          pip install --user ghp-import
+          ghp-import -n -p -f -c remy.greinho.fr -r origin -m "Published on $(date +"%Y-%m-%dT%H:%M:%S%Z")" my-site/public
 
 workflows:
   main:
