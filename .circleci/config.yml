@@ -1,0 +1,27 @@
+version: 2.1
+
+orbs:
+  hugo: circleci/hugo@0.3.1
+
+jobs:
+  deploy:
+    docker:
+      - image: cibuilds/base
+    steps:
+      - attach_workspace:
+          at: my-site
+      - run: |
+          ghp-import -n -p -f -c remy.greinho.fr -r origin -m "Publish $(git describe)" public
+
+workflows:
+  main:
+    jobs:
+      - hugo/build:
+          version: '0.55'
+          html-proofer: false
+      - deploy:
+          requires:
+            - hugo/build
+          filters:
+            branches:
+              only: master
