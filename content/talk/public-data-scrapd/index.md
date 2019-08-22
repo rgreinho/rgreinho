@@ -35,5 +35,6 @@ header:
   caption: ""
   image: ""
 
-slides: "example-slides"
+projects:
+  - scrapd
 ---
