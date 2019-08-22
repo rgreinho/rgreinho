@@ -34,6 +34,7 @@ view: 2
 header:
   caption: ""
   image: ""
-
-slides: "example-slides"
+  
+projects:
+- request-yo-racks
 ---
