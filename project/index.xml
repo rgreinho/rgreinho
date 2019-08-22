@@ -36,5 +36,25 @@
 </description>
     </item>
     
+    <item>
+      <title>Request Yo Racks</title>
+      <link>/project/request-yo-racks/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/project/request-yo-racks/</guid>
+      <description>&lt;p&gt;The city of Austin offers the possibility to apply for the &lt;a href=&#34;https://www.austintexas.gov/page/bicycle-parking&#34; target=&#34;_blank&#34;&gt;free installation of bike corrals on the right of way/parking spot close to businesses&lt;/a&gt;. The process requires the requester to write an email to a specific service of the city, and include additional information about the location and the business owner(s).&lt;/p&gt;
+
+&lt;p&gt;But there are two problems with this approach:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The first problem is that people do not want to spend the time to write the email and collect the necessary information.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The second one is that, in spite of the fact that the people in charge of the program are willing to help, the process is not completely straightforward:
+&amp;gt; &amp;ldquo;There will generally be at least a few back and forth messages associated with a bike parking request.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;“Request yo racks” proposes to simplify the process by automating all these tasks, and reducing the requester efforts to 3 simple steps:&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
