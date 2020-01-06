@@ -1,21 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>/</loc>
     <lastmod>2020-01-05T11:34:59-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/automation/</loc>
     <lastmod>2020-01-05T11:34:59-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2020-01-05T11:34:59-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/project-management/</loc>
+    <lastmod>2020-01-05T11:34:59-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/project-management-guidelines/</loc>
     <lastmod>2020-01-05T11:34:59-06:00</lastmod>
   </url>
   
@@ -25,20 +33,8 @@
   </url>
   
   <url>
-    <loc>/tags/project-management/</loc>
-    <lastmod>2020-01-05T11:34:59-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/project-management-guidelines/</loc>
-    <lastmod>2020-01-05T11:34:59-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <lastmod>2020-01-05T11:34:59-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -59,19 +55,16 @@
   <url>
     <loc>/project/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/urbanism/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/walkable-cities/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -82,7 +75,6 @@
   <url>
     <loc>/tags/vision-zero/</loc>
     <lastmod>2019-06-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -103,13 +95,11 @@
   <url>
     <loc>/tags/biking/</loc>
     <lastmod>2017-11-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/experiment/</loc>
     <lastmod>2017-11-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -120,7 +110,6 @@
   <url>
     <loc>/tags/safety/</loc>
     <lastmod>2017-11-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -129,17 +118,14 @@
   
   <url>
     <loc>/authors/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

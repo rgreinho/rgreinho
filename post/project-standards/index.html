@@ -82,7 +82,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.301ab7eca2ca7d1311ed71a9afa2cc4f.css">
+  <link rel="stylesheet" href="/css/academic.min.e3f5b18d016dbe045ff798ce14ab3788.css">
 
   
 
@@ -510,96 +510,94 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      
-
-<h2 id="objectives">Objectives</h2>
-
+      <h2 id="objectives">Objectives</h2>
 <p>The goal of this document is to provide the developers with clear guidelines to manage their projects.</p>
-
 <p>It is important to emphasize that the usage of specific tools will not be enforced, except for special cases (i.e. docker for containers), but instead the concepts will have to be implemented (i.e. projects must provide unit tests).</p>
-
 <p>To allow the developers to start quickly, generators will be provided when applicable.</p>
-
 <h2 id="standards">Standards</h2>
-
 <ul>
-<li>Service API must be defined using the <a href="https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.2.md" target="_blank">OpenAPI 3+ specification</a>
-
+<li>Service API must be defined using the <a href="https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.2.md">OpenAPI 3+ specification</a>
 <ul>
-<li>Zalando provides very good <a href="https://opensource.zalando.com/restful-api-guidelines/" target="_blank">RESTful API Guidelines</a> worth following</li>
-</ul></li>
+<li>Zalando provides very good <a href="https://opensource.zalando.com/restful-api-guidelines/">RESTful API Guidelines</a> worth following</li>
+</ul>
+</li>
 <li>Projects must provide a way to build artifacts using standard tools (i.e. no custom scripts made for a specific machine/environment)
-
 <ul>
 <li>a package or binary depending on the language</li>
 <li>a docker image</li>
-</ul></li>
+</ul>
+</li>
 <li>Projects must comply with CI tasks
-
 <ul>
 <li>Formatter</li>
-<li>Linters</li>
+<li>Linters
+<ul>
 <li>Code</li>
 <li>Docstrings</li>
+</ul>
+</li>
 <li>Static analyzers</li>
 <li>Documentation</li>
 <li>Unit/Feature tests</li>
-<li>Coverage</li>
+<li>Coverage
+<ul>
 <li>Reaching 100% coverage is not the end goal</li>
 <li>Must never regress</li>
 <li>Think about your teammates who worked on increasing this coverage</li>
-<li>Use online services like <a href="https://coveralls.io" target="_blank">https://coveralls.io</a> or <a href="https://codecov.io" target="_blank">https://codecov.io</a></li>
+<li>Use online services like <a href="https://coveralls.io">https://coveralls.io</a> or <a href="https://codecov.io">https://codecov.io</a></li>
 <li>Use feature tests
-
 <ul>
-<li>Try to cover 100% of use cases</li>
+<li>Try to cover 100% of use cases
+<ul>
 <li>This is more important the unit test coverage</li>
 <li>It will end up increasing unit test coverage anywway</li>
-</ul></li>
-</ul></li>
-<li>Projects must include a Changelog following the &ldquo;Keep a Changelog&rdquo; recommendation (<a href="https://keepachangelog.com/en/1.0.0" target="_blank">https://keepachangelog.com/en/1.0.0</a>)</li>
-<li>Project must adhere to <a href="https://semver.org/spec/v2.0.0.html" target="_blank">Semantic Versioning</a>
-
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Projects must include a Changelog following the &ldquo;Keep a Changelog&rdquo; recommendation (<a href="https://keepachangelog.com/en/1.0.0">https://keepachangelog.com/en/1.0.0</a>)</li>
+<li>Project must adhere to <a href="https://semver.org/spec/v2.0.0.html">Semantic Versioning</a>
 <ul>
-<li>Or <a href="https://calver.org" target="_blank">Calendar Versioning</a> if it makes more sense.</li>
-</ul></li>
+<li>Or <a href="https://calver.org%3E">Calendar Versioning</a> if it makes more sense.</li>
+</ul>
+</li>
 <li>Projects must use Issues and Pull Request templates</li>
 <li>Projects must use meaningful labels</li>
 <li>Projects must be documented</li>
 <li>Projects must automate all their maintenance tasks
-
 <ul>
 <li>Must ensure reproducibility</li>
 <li>A Makefile or a package.json at the root of the project is a good example of how to automate maintenance tasks. The commands must be backed by a set of bash scripts (instead of being written inline).</li>
-</ul></li>
 </ul>
-
+</li>
+</ul>
 <h2 id="recommendation-per-language">Recommendation per language</h2>
-
 <p>Recommendations are provided to help the developers choose the right tool for the right task without spending too much time on the research phase.</p>
-
 <h3 id="all">All</h3>
-
 <ul>
-<li><a href="https://github.com/scrapd/scrapd/blob/master/CHANGELOG.md" target="_blank">Changelog</a></li>
+<li><a href="https://github.com/scrapd/scrapd/blob/master/CHANGELOG.md">Changelog</a></li>
 <li>Project templates
-
 <ul>
-<li>Github</li>
-<li><a href="https://github.com/scrapd/scrapd/blob/master/.github/ISSUE_TEMPLATE.md" target="_blank">Issues</a></li>
-<li><a href="https://github.com/scrapd/scrapd/blob/master/.github/PULL_REQUEST_TEMPLATE.md" target="_blank">Pull Requests</a></li>
-<li><a href="https://github.com/scrapd/scrapd/blob/master/.github/CONTRIBUTING.rst" target="_blank">Contributing</a></li>
-</ul></li>
-<li><a href="https://editorconfig.org/" target="_blank">EditorConfig</a> to standardize editor configurations.</li>
+<li>Github
+<ul>
+<li><a href="https://github.com/scrapd/scrapd/blob/master/.github/ISSUE_TEMPLATE.md">Issues</a></li>
+<li><a href="https://github.com/scrapd/scrapd/blob/master/.github/PULL_REQUEST_TEMPLATE.md">Pull Requests</a></li>
+<li><a href="https://github.com/scrapd/scrapd/blob/master/.github/CONTRIBUTING.rst">Contributing</a></li>
 </ul>
-
+</li>
+</ul>
+</li>
+<li><a href="https://editorconfig.org/">EditorConfig</a> to standardize editor configurations.</li>
+</ul>
 <h3 id="python">Python</h3>
-
 <ul>
 <li>Project source layout</li>
 </ul>
-
-<pre><code class="language-bash">.
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">.
 ├── CHANGELOG.md
 ├── Dockerfile
 ├── LICENSE
@@ -631,105 +629,113 @@
     ├── mock_data.py
     ├── step_defs
     └── test_common.py
-</code></pre>
-
-<ul>
+</code></pre></div><ul>
 <li>Packaging
-
 <ul>
-<li>Use <a href="https://docs.openstack.org/pbr/latest/" target="_blank">PBR</a> to create a package</li>
-<li>Package the application as a <a href="https://pypi.org/project/wheel/" target="_blank">wheel</a> (.whl)</li>
-<li><em>Alternative</em>: <a href="https://github.com/sdispater/poetry" target="_blank">Poetry</a> (does dependency+package management)</li>
-</ul></li>
+<li>Use <a href="https://docs.openstack.org/pbr/latest/">PBR</a> to create a package
+<ul>
+<li>Package the application as a <a href="https://pypi.org/project/wheel/">wheel</a> (.whl)</li>
+</ul>
+</li>
+<li><em>Alternative</em>: <a href="https://github.com/sdispater/poetry">Poetry</a> (does dependency+package management)</li>
+</ul>
+</li>
 <li>CI tasks
-
 <ul>
-<li>Formatter: <a href="https://github.com/python/black" target="_blank">Black</a></li>
-<li><em>Alternative</em>: <a href="https://github.com/google/yapf" target="_blank">YAPF</a></li>
-<li>Linters</li>
-<li><a href="https://github.com/PyCQA/pycodestyle" target="_blank">pycodestyle</a></li>
-<li><a href="https://github.com/PyCQA/pydocstyle" target="_blank">pydocstyle</a></li>
-<li>Static analyzers</li>
-<li><a href="https://github.com/PyCQA/pyflakes" target="_blank">PyFlakes</a></li>
-<li><a href="https://github.com/PyCQA/pylint" target="_blank">Pylint</a></li>
-<li><a href="https://github.com/PyCQA/mccabe" target="_blank">McCabe&rsquo;s script</a></li>
-<li>Documentation: <a href="http://www.sphinx-doc.org/en/master/" target="_blank">Sphinx</a></li>
-<li>Unit/Feature tests</li>
-<li><a href="https://docs.pytest.org/en/latest/" target="_blank">Pytest</a> with the following plugins
-
+<li>Formatter: <a href="https://github.com/python/black">Black</a>
 <ul>
-<li><a href="https://github.com/pytest-dev/pytest-asyncio" target="_blank">pytest-asyncio</a></li>
-<li><a href="https://github.com/pytest-dev/pytest-bdd" target="_blank">pytest-bdd</a></li>
-<li><a href="https://github.com/pytest-dev/pytest-cov" target="_blank">pytest-cov</a></li>
-<li><a href="https://github.com/pytest-dev/pytest-mock/" target="_blank">pytest-mock</a></li>
-<li><a href="https://github.com/pytest-dev/pytest-rerunfailures" target="_blank">pytest-rerunfailures</a></li>
-<li><a href="https://github.com/miketheman/pytest-socket" target="_blank">pytest-socket</a></li>
-<li><a href="https://github.com/pytest-dev/pytest-xdist" target="_blank">pytest-xdist</a></li>
-</ul></li>
-<li>Coverage: <a href="https://github.com/nedbat/coveragepy" target="_blank">coverage.py</a></li>
-</ul></li>
-<li>Maintenance tasks automation: <a href="https://github.com/pyinvoke/invoke" target="_blank">Invoke</a> + <a href="https://github.com/theacodes/nox" target="_blank">Nox</a>
-
-<ul>
-<li><em>Alternative</em>: <a href="https://github.com/scrapd/scrapd/blob/master/Makefile" target="_blank">Makefile</a></li>
-<li><em>Alternative</em>: <a href="https://tox.readthedocs.io/en/latest/" target="_blank">Tox</a></li>
-</ul></li>
+<li><em>Alternative</em>: <a href="https://github.com/google/yapf">YAPF</a></li>
 </ul>
-
+</li>
+<li>Linters
+<ul>
+<li><a href="https://github.com/PyCQA/pycodestyle">pycodestyle</a></li>
+<li><a href="https://github.com/PyCQA/pydocstyle">pydocstyle</a></li>
+</ul>
+</li>
+<li>Static analyzers
+<ul>
+<li><a href="https://github.com/PyCQA/pyflakes">PyFlakes</a></li>
+<li><a href="https://github.com/PyCQA/pylint">Pylint</a></li>
+<li><a href="https://github.com/PyCQA/mccabe">McCabe's script</a></li>
+</ul>
+</li>
+<li>Documentation: <a href="http://www.sphinx-doc.org/en/master/">Sphinx</a></li>
+<li>Unit/Feature tests
+<ul>
+<li><a href="https://docs.pytest.org/en/latest/">Pytest</a> with the following plugins
+<ul>
+<li><a href="https://github.com/pytest-dev/pytest-asyncio">pytest-asyncio</a></li>
+<li><a href="https://github.com/pytest-dev/pytest-bdd">pytest-bdd</a></li>
+<li><a href="https://github.com/pytest-dev/pytest-cov">pytest-cov</a></li>
+<li><a href="https://github.com/pytest-dev/pytest-mock/">pytest-mock</a></li>
+<li><a href="https://github.com/pytest-dev/pytest-rerunfailures">pytest-rerunfailures</a></li>
+<li><a href="https://github.com/miketheman/pytest-socket">pytest-socket</a></li>
+<li><a href="https://github.com/pytest-dev/pytest-xdist">pytest-xdist</a></li>
+</ul>
+</li>
+<li>Coverage: <a href="https://github.com/nedbat/coveragepy">coverage.py</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Maintenance tasks automation: <a href="https://github.com/pyinvoke/invoke">Invoke</a> + <a href="https://github.com/theacodes/nox">Nox</a>
+<ul>
+<li><em>Alternative</em>: <a href="https://github.com/scrapd/scrapd/blob/master/Makefile">Makefile</a></li>
+<li><em>Alternative</em>: <a href="https://tox.readthedocs.io/en/latest/">Tox</a></li>
+</ul>
+</li>
+</ul>
 <h4 id="remarks">Remarks</h4>
-
 <ul>
-<li><a href="https://github.com/PyCQA/flake8" target="_blank">Flake8</a> can be used as a wrapper for PyFlakes, pycodestyle, and Ned Batchelder&rsquo;s McCabe script.</li>
+<li><a href="https://github.com/PyCQA/flake8">Flake8</a> can be used as a wrapper for PyFlakes, pycodestyle, and Ned Batchelder's McCabe script.</li>
 </ul>
-
-<h2 id="node-js-react">Node.js/React</h2>
-
+<h2 id="nodejsreact">Node.js/React</h2>
 <ul>
 <li>CI Tasks
-
 <ul>
-<li>Formatter: <a href="https://prettier.io/" target="_blank">Prettier</a></li>
-<li>Linters: <a href="https://eslint.org/" target="_blank">ESLint</a></li>
-<li>Unit tests:</li>
-<li>Framework: <a href="https://jestjs.io/" target="_blank">Jest</a></li>
-<li>Coverage: <a href="https://jestjs.io/" target="_blank">Jest</a></li>
-</ul></li>
-<li>Maintenance tasks automation
-
+<li>Formatter: <a href="https://prettier.io/">Prettier</a></li>
+<li>Linters: <a href="https://eslint.org/">ESLint</a></li>
+<li>Unit tests:
 <ul>
-<li><code>package.json</code>: <a href="https://github.com/scrapd/scrapdviz/blob/master/package.json" target="_blank">https://github.com/scrapd/scrapdviz/blob/master/package.json</a></li>
-</ul></li>
+<li>Framework: <a href="https://jestjs.io/">Jest</a></li>
+<li>Coverage: <a href="https://jestjs.io/">Jest</a></li>
 </ul>
-
+</li>
+</ul>
+</li>
+<li>Maintenance tasks automation
+<ul>
+<li><code>package.json</code>: <a href="https://github.com/scrapd/scrapdviz/blob/master/package.json">https://github.com/scrapd/scrapdviz/blob/master/package.json</a></li>
+</ul>
+</li>
+</ul>
 <h2 id="go">Go</h2>
-
 <ul>
 <li>Formatter (built-in): <code>goimports</code></li>
-<li>Linters: <a href="https://golangci.com/" target="_blank">golangci-lint</a></li>
+<li>Linters: <a href="https://golangci.com/">golangci-lint</a></li>
 <li>Documentation (built-in): <code>godoc</code></li>
 <li>Unit tests:
-
 <ul>
 <li>Framework: go test (built-in): <code>go test -v -cover -coverprofile=coverage.out  ./...</code></li>
 <li>Coverage: go tool (built-in): <code>go tool cover -html=coverage.out</code></li>
-</ul></li>
-<li>Maintenance tasks automation
-
-<ul>
-<li><a href="https://taskfile.dev" target="_blank">Go Task</a></li>
-<li><em>Alternative</em>: <a href="https://github.com/magefile/mage" target="_blank">Mage</a></li>
-</ul></li>
 </ul>
-
-<h2 id="ruby">Ruby</h2>
-
+</li>
+<li>Maintenance tasks automation
 <ul>
-<li>Formatter: <a href="https://www.rubocop.org/en/stable/" target="_blank">rubocop</a></li>
-<li>Linters: <a href="https://www.rubocop.org/en/stable/" target="_blank">rubocop</a></li>
-<li>Static analyzers: <a href="https://www.rubocop.org/en/stable/" target="_blank">rubocop</a></li>
-<li>Documentation: <a href="https://yardoc.org/" target="_blank">yard</a></li>
-<li>Unit test: <a href="https://rspec.info/" target="_blank">rspec</a></li>
-<li>Coverage: <a href="https://github.com/colszowka/simplecov" target="_blank">simplecov</a></li>
+<li><a href="https://taskfile.dev">Go Task</a></li>
+<li><em>Alternative</em>: <a href="https://github.com/magefile/mage">Mage</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="ruby">Ruby</h2>
+<ul>
+<li>Formatter: <a href="https://www.rubocop.org/en/stable/">rubocop</a></li>
+<li>Linters: <a href="https://www.rubocop.org/en/stable/">rubocop</a></li>
+<li>Static analyzers: <a href="https://www.rubocop.org/en/stable/">rubocop</a></li>
+<li>Documentation: <a href="https://yardoc.org/">yard</a></li>
+<li>Unit test: <a href="https://rspec.info/">rspec</a></li>
+<li>Coverage: <a href="https://github.com/colszowka/simplecov">simplecov</a></li>
 </ul>
 
     </div>
@@ -974,7 +980,7 @@
     
     
     
-    <script src="/js/academic.min.4e51017b38c7ebaadd7e25fc9503f88c.js"></script>
+    <script src="/js/academic.min.16bbb3750feb7244c9bc409a5a4fe678.js"></script>
 
     
 
