@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description></description>
+    <title>Automation | </title>
+    <link>/tags/automation/</link>
+      <atom:link href="/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Automation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2020 11:34:59 -0600</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title></title>
-      <link>/</link>
+      <title>Automation</title>
+      <link>/tags/automation/</link>
     </image>
     
     <item>
@@ -478,82 +478,6 @@
 &lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Build your team&lt;/label&gt;&lt;/li&gt;
 &lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Clear your mind&lt;/label&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Keep having fun maintaing your projects</title>
-      <link>/talk/having-fun-maintaining-projects/</link>
-      <pubDate>Mon, 12 Aug 2019 14:00:00 +0000</pubDate>
-      <guid>/talk/having-fun-maintaining-projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AURA</title>
-      <link>/project/aura-atx/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/aura-atx/</guid>
-      <description>&lt;p&gt;AURA is an all-volunteer grassroots urbanist organization focused on building an Austin for everyone by improving land use and transportation through policy analysis, public involvement, and political engagement.&lt;/p&gt;
-
-&lt;p&gt;We are dedicated to a vision of an Austin where everybody is welcome and everybody’s interests matter: young and old, rich and poor, renter and homeowner, healthy and sick, citizen and immigrant, lifelong resident and new arrival. The greatest asset our city has is its people, and our city is at its best when it facilitates connections between all.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ScrAPD</title>
-      <link>/project/scrapd/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/project/scrapd/</guid>
-      <description>&lt;p&gt;ScrAPD is a collection of tools to automatically collect information about traffic fatalities in the city of Austin, TX and render it on a modern dashboard.&lt;/p&gt;
-
-&lt;p&gt;The goal of the project is to help grassroots organizations, local communities and individuals advocate in favor of the Vision Zero program.&lt;/p&gt;
-
-&lt;p&gt;We believe that representing this information on graphs and maps helps people better understand the importance of this plague and feel more involved to address the issue.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Request Yo Racks: Lessons Learned</title>
-      <link>/talk/ryr-lessons-learned/</link>
-      <pubDate>Mon, 03 Jun 2019 19:15:00 +0000</pubDate>
-      <guid>/talk/ryr-lessons-learned/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using Public Data: The ScrAPD case</title>
-      <link>/talk/public-data-scrapd/</link>
-      <pubDate>Mon, 04 Mar 2019 19:15:00 +0000</pubDate>
-      <guid>/talk/public-data-scrapd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Request Yo Racks: Project Leader Story</title>
-      <link>/talk/ryr-story/</link>
-      <pubDate>Mon, 16 Jul 2018 19:05:00 +0000</pubDate>
-      <guid>/talk/ryr-story/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Request Yo Racks</title>
-      <link>/project/request-yo-racks/</link>
-      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/project/request-yo-racks/</guid>
-      <description>&lt;p&gt;The city of Austin offers the possibility to apply for the &lt;a href=&#34;https://www.austintexas.gov/page/bicycle-parking&#34; target=&#34;_blank&#34;&gt;free installation of bike corrals on the right of way/parking spot close to businesses&lt;/a&gt;. The process requires the requester to write an email to a specific service of the city, and include additional information about the location and the business owner(s).&lt;/p&gt;
-
-&lt;p&gt;But there are two problems with this approach:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;The first problem is that people do not want to spend the time to write the email and collect the necessary information.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;The second one is that, in spite of the fact that the people in charge of the program are willing to help, the process is not completely straightforward:
-&amp;gt; &amp;ldquo;There will generally be at least a few back and forth messages associated with a bike parking request.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;“Request yo racks” proposes to simplify the process by automating all these tasks, and reducing the requester efforts to 3 simple steps:&lt;/p&gt;
 </description>
     </item>
     
