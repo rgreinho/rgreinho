@@ -8,7 +8,7 @@ date: 2020-01-05T11:34:59-06:00
 ---
 These guidelines are a collection of concepts gathered from leading several projects in a work environment or with volunteers.
 
-They are mainly targeting volunteering project, but the ideas can be applicable to other situations as well.
+They are mainly targeting volunteering projects, but the ideas can be applicable to other situations as well.
 
 ## When you are thinking of starting
 
