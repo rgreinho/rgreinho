@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Software Engineer
+role: Senior Software Engineer / DevOps
 
 # Organizations/Affiliations
 organizations:
-- name: Shipstation, Austin, TX
-  url: "https://www.shipstation.com"
+- name: Planview, Austin, TX
+  url: "https://www.planview.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Building communities and automation to simplify the world.
