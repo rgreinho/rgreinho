@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Software Engineer / DevOps
+role: Senior Supply Chain Security Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Planview, Austin, TX
-  url: "https://www.planview.com"
+- name: Citi, Austin, TX
+  url: "https://www.citi.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Building communities and automation to simplify the world.
