@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  hugo: circleci/hugo@0.4.1
+  hugo: circleci/hugo@1.2.2
 
 jobs:
   deploy:
@@ -13,7 +13,7 @@ jobs:
           at: my-site
       - add_ssh_keys:
           fingerprints:
-            02:55:fb:41:d1:ed:64:87:53:61:47:2f:b1:5f:f3:63
+            - 02:55:fb:41:d1:ed:64:87:53:61:47:2f:b1:5f:f3:63
       - run: |
           export PATH=$PATH:/home/circleci/.local/bin
           pip install --user ghp-import
@@ -23,7 +23,7 @@ workflows:
   main:
     jobs:
       - hugo/build:
-          version: '0.62.2'
+          version: "0.87.0"
           html-proofer: false
       - deploy:
           requires:
