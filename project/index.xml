@@ -5,9 +5,9 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
@@ -38,7 +38,7 @@
       <link>/project/request-yo-racks/</link>
       <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
       <guid>/project/request-yo-racks/</guid>
-      <description>&lt;p&gt;The city of Austin offers the possibility to apply for the &lt;a href=&#34;https://www.austintexas.gov/page/bicycle-parking&#34;&gt;free installation of bike corrals on the right of way/parking spot close to businesses&lt;/a&gt;. The process requires the requester to write an email to a specific service of the city, and include additional information about the location and the business owner(s).&lt;/p&gt;
+      <description>&lt;p&gt;The city of Austin offers the possibility to apply for the &lt;a href=&#34;https://www.austintexas.gov/page/bicycle-parking&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;free installation of bike corrals on the right of way/parking spot close to businesses&lt;/a&gt;. The process requires the requester to write an email to a specific service of the city, and include additional information about the location and the business owner(s).&lt;/p&gt;
 &lt;p&gt;But there are two problems with this approach:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;

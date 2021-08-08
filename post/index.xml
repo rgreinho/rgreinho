@@ -5,9 +5,9 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2020 11:34:59 -0600</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2020 11:34:59 -0600</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
@@ -24,24 +24,24 @@
 &lt;h3 id=&#34;time-management&#34;&gt;Time management&lt;/h3&gt;
 &lt;p&gt;Time is your most precious asset. Manage it wisely! Make sure that you show you value the time of your contributors as well.&lt;/p&gt;
 &lt;h4 id=&#34;time-box-the-effort-regularly&#34;&gt;Time box the effort regularly&lt;/h4&gt;
-&lt;p&gt;Procrastination is the enemy of success. To defeat it, make sure that you work routinely on your project. No excuses. Simply saying &amp;ldquo;I&#39;ll work on it during my free time&amp;rdquo; is a recipe for failure. People don&#39;t magically &amp;ldquo;have&amp;rdquo; time. You need to make the time for things that matter. And your project should matter!&lt;/p&gt;
+&lt;p&gt;Procrastination is the enemy of success. To defeat it, make sure that you work routinely on your project. No excuses. Simply saying &amp;ldquo;I&amp;rsquo;ll work on it during my free time&amp;rdquo; is a recipe for failure. People don&amp;rsquo;t magically &amp;ldquo;have&amp;rdquo; time. You need to make the time for things that matter. And your project should matter!&lt;/p&gt;
 &lt;p&gt;It is better to work 4 times for 1 hour, than 1 time for 4 hours. Set a recurring time slot in your calendar. Be consistent.&lt;/p&gt;
 &lt;h4 id=&#34;set-deadlines-for-releases&#34;&gt;Set deadlines for releases&lt;/h4&gt;
-&lt;p&gt;This will help you and your contributors to gauge the progress more easily. It also helps with goals and the &lt;a href=&#34;https://www.time-management-success.com/parkinsons-law.html&#34;&gt;Parkinson&#39;s law&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Remember to release often. Don&#39;t wait for the perfect project.&lt;/p&gt;
+&lt;p&gt;This will help you and your contributors to gauge the progress more easily. It also helps with goals and the &lt;a href=&#34;https://www.time-management-success.com/parkinsons-law.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Parkinson&amp;rsquo;s law&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Remember to release often. Don&amp;rsquo;t wait for the perfect project.&lt;/p&gt;
 &lt;h4 id=&#34;define-milestones&#34;&gt;Define milestones&lt;/h4&gt;
 &lt;p&gt;Releases can be broken down into milestones. It will provide a better sense of achievement as people will be able to visually connect the percentage of advancement and the number of opened/closed issues to the state of your project.&lt;/p&gt;
 &lt;p&gt;You can see milestones as a group of issues targeting a similar goal.&lt;/p&gt;
 &lt;p&gt;Combine it to a completion date and contributors can now associate the workload (done or left) with an amount of days. This information can be used to take the pulse of the project. An active project is more attractive to new contributors.&lt;/p&gt;
 &lt;p&gt;A byproduct of using milestones is that you can often see them as mini releases! Leverage them to release often.&lt;/p&gt;
 &lt;h3 id=&#34;set-up-a-budget&#34;&gt;Set up a budget&lt;/h3&gt;
-&lt;p&gt;A project&#39;s price can quickly become exorbitant if you don&#39;t manage it properly; it does not have to be.&lt;/p&gt;
+&lt;p&gt;A project&amp;rsquo;s price can quickly become exorbitant if you don&amp;rsquo;t manage it properly; it does not have to be.&lt;/p&gt;
 &lt;p&gt;Your project will need a domain name (~$14/year). You do not need to get it right away, but you must be ready to get it when you will need it. Some people like to secure it as soon as possible, others only if/when they have something to show. That should be your only initial expenditure. And possibly the only one at all, at least until you have a growing proof of concept.&lt;/p&gt;
 &lt;p&gt;As your project grows, you may need to start using paying services and cloud computing resources. Be sure to monitor their costs.  There are tools to accurately compute how much the infrastructure would cost you. Do NOT ignore them!&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://calculator.s3.amazonaws.com/index.html&#34;&gt;AWS Simple Monthly calculator&lt;/a&gt;, soon being replaced by &lt;a href=&#34;https://calculator.aws/#/&#34;&gt;AWS Pricing Calculator&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/products/calculator/&#34;&gt;Google Cloud pricing calculator&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/pricing/calculator/&#34;&gt;Azure pricing calculator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://calculator.s3.amazonaws.com/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AWS Simple Monthly calculator&lt;/a&gt;, soon being replaced by &lt;a href=&#34;https://calculator.aws/#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AWS Pricing Calculator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/products/calculator/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Cloud pricing calculator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/pricing/calculator/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Azure pricing calculator&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;not-all-contributors-will-be-senior-software-engineers&#34;&gt;Not all contributors will be senior software engineers&lt;/h3&gt;
 &lt;p&gt;Contributors will have a wide range of skills. Use this to the advantage of your project. But to do so, you need to be able to accommodate all sorts of profiles.&lt;/p&gt;
@@ -51,7 +51,7 @@
 &lt;li&gt;Make it easy for people to get onboarded.
 &lt;ul&gt;
 &lt;li&gt;Automate all the setup tasks using scripts/tools.&lt;/li&gt;
-&lt;li&gt;Don&#39;t write pages of instructions in a wiki. A few lines at most should get people started.&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t write pages of instructions in a wiki. A few lines at most should get people started.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Prepare all sorts of tasks. It is very unlikely that your project requires only experienced developers. Offer work from graphic design to coding, via documentation, to anything else helpful.&lt;/li&gt;
@@ -129,7 +129,7 @@
 &lt;ul&gt;
 &lt;li&gt;Reward your members by promoting them
 &lt;ul&gt;
-&lt;li&gt;Don&#39;t feel worried about doing so
+&lt;li&gt;Don&amp;rsquo;t feel worried about doing so
 &lt;ul&gt;
 &lt;li&gt;Nothing can really happen to your project&lt;/li&gt;
 &lt;li&gt;Worst case scenario you should be able to revert anything bad&lt;/li&gt;
@@ -147,7 +147,7 @@
 &lt;ul&gt;
 &lt;li&gt;After more significant actions
 &lt;ul&gt;
-&lt;li&gt;At this point the member&#39;s involvement in the project is trusted&lt;/li&gt;
+&lt;li&gt;At this point the member&amp;rsquo;s involvement in the project is trusted&lt;/li&gt;
 &lt;li&gt;Be sure that the member can start doing meaningful code reviews, on-boarding and advocating for the project&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -163,35 +163,35 @@
 &lt;h2 id=&#34;checklists&#34;&gt;Checklists&lt;/h2&gt;
 &lt;h3 id=&#34;when-you-are-thinking-of-starting-1&#34;&gt;When you are thinking of starting&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Define a recurring time slot in your calendar&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Define project deadline(s)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Define project milestones&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Setup a budget&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Think about all profiles of contributors&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Make sure you are prepared to teach&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Think automation&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Don&#39;t forget to have fun&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Define a recurring time slot in your calendar&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Define project deadline(s)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Define project milestones&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Setup a budget&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Think about all profiles of contributors&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Make sure you are prepared to teach&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Think automation&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Don&amp;rsquo;t forget to have fun&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;when-you-are-ready-to-start-1&#34;&gt;When you are ready to start&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Relationship with stakeholder(s)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Deployment plan&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Release pipeline&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Core values&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Minimal set of rules&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Project standards&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Relationship with stakeholder(s)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Deployment plan&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Release pipeline&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Core values&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Minimal set of rules&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Project standards&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;at-the-very-beginning-of-the-process-1&#34;&gt;At the very beginning of the process&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Set expectations&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Organize the project in a consistent and repeatable fashion&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Acquire a domain name&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Design a logo or a mascot&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Set expectations&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Organize the project in a consistent and repeatable fashion&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Acquire a domain name&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Design a logo or a mascot&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;during-the-development-process-1&#34;&gt;During the development process&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Build your team&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Clear your mind&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Build your team&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Clear your mind&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -207,9 +207,9 @@
 &lt;p&gt;To allow the developers to start quickly, generators will be provided when applicable.&lt;/p&gt;
 &lt;h2 id=&#34;standards&#34;&gt;Standards&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Service API must be defined using the &lt;a href=&#34;https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.2.md&#34;&gt;OpenAPI 3+ specification&lt;/a&gt;
+&lt;li&gt;Service API must be defined using the &lt;a href=&#34;https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.2.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenAPI 3+ specification&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;Zalando provides very good &lt;a href=&#34;https://opensource.zalando.com/restful-api-guidelines/&#34;&gt;RESTful API Guidelines&lt;/a&gt; worth following&lt;/li&gt;
+&lt;li&gt;Zalando provides very good &lt;a href=&#34;https://opensource.zalando.com/restful-api-guidelines/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RESTful API Guidelines&lt;/a&gt; worth following&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Projects must provide a way to build artifacts using standard tools (i.e. no custom scripts made for a specific machine/environment)
@@ -235,7 +235,7 @@
 &lt;li&gt;Reaching 100% coverage is not the end goal&lt;/li&gt;
 &lt;li&gt;Must never regress&lt;/li&gt;
 &lt;li&gt;Think about your teammates who worked on increasing this coverage&lt;/li&gt;
-&lt;li&gt;Use online services like &lt;a href=&#34;https://coveralls.io&#34;&gt;https://coveralls.io&lt;/a&gt; or &lt;a href=&#34;https://codecov.io&#34;&gt;https://codecov.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Use online services like &lt;a href=&#34;https://coveralls.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://coveralls.io&lt;/a&gt; or &lt;a href=&#34;https://codecov.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://codecov.io&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Use feature tests
 &lt;ul&gt;
 &lt;li&gt;Try to cover 100% of use cases
@@ -250,10 +250,10 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Projects must include a Changelog following the &amp;ldquo;Keep a Changelog&amp;rdquo; recommendation (&lt;a href=&#34;https://keepachangelog.com/en/1.0.0&#34;&gt;https://keepachangelog.com/en/1.0.0&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Project must adhere to &lt;a href=&#34;https://semver.org/spec/v2.0.0.html&#34;&gt;Semantic Versioning&lt;/a&gt;
+&lt;li&gt;Projects must include a Changelog following the &amp;ldquo;Keep a Changelog&amp;rdquo; recommendation (&lt;a href=&#34;https://keepachangelog.com/en/1.0.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://keepachangelog.com/en/1.0.0&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Project must adhere to &lt;a href=&#34;https://semver.org/spec/v2.0.0.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Semantic Versioning&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;Or &lt;a href=&#34;https://calver.org%3E&#34;&gt;Calendar Versioning&lt;/a&gt; if it makes more sense.&lt;/li&gt;
+&lt;li&gt;Or &lt;a href=&#34;https://calver.org%3e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calendar Versioning&lt;/a&gt; if it makes more sense.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Projects must use Issues and Pull Request templates&lt;/li&gt;
@@ -270,25 +270,25 @@
 &lt;p&gt;Recommendations are provided to help the developers choose the right tool for the right task without spending too much time on the research phase.&lt;/p&gt;
 &lt;h3 id=&#34;all&#34;&gt;All&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/scrapd/scrapd/blob/master/CHANGELOG.md&#34;&gt;Changelog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/scrapd/scrapd/blob/master/CHANGELOG.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Changelog&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Project templates
 &lt;ul&gt;
 &lt;li&gt;Github
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/scrapd/scrapd/blob/master/.github/ISSUE_TEMPLATE.md&#34;&gt;Issues&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/scrapd/scrapd/blob/master/.github/PULL_REQUEST_TEMPLATE.md&#34;&gt;Pull Requests&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/scrapd/scrapd/blob/master/.github/CONTRIBUTING.rst&#34;&gt;Contributing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/scrapd/scrapd/blob/master/.github/ISSUE_TEMPLATE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Issues&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/scrapd/scrapd/blob/master/.github/PULL_REQUEST_TEMPLATE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pull Requests&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/scrapd/scrapd/blob/master/.github/CONTRIBUTING.rst&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributing&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://editorconfig.org/&#34;&gt;EditorConfig&lt;/a&gt; to standardize editor configurations.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://editorconfig.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EditorConfig&lt;/a&gt; to standardize editor configurations.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;python&#34;&gt;Python&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Project source layout&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;.
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;.
 ├── CHANGELOG.md
 ├── Dockerfile
 ├── LICENSE
@@ -320,91 +320,92 @@
     ├── mock_data.py
     ├── step_defs
     └── test_common.py
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
 &lt;li&gt;Packaging
 &lt;ul&gt;
-&lt;li&gt;Use &lt;a href=&#34;https://docs.openstack.org/pbr/latest/&#34;&gt;PBR&lt;/a&gt; to create a package
+&lt;li&gt;Use &lt;a href=&#34;https://docs.openstack.org/pbr/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PBR&lt;/a&gt; to create a package
 &lt;ul&gt;
-&lt;li&gt;Package the application as a &lt;a href=&#34;https://pypi.org/project/wheel/&#34;&gt;wheel&lt;/a&gt; (.whl)&lt;/li&gt;
+&lt;li&gt;Package the application as a &lt;a href=&#34;https://pypi.org/project/wheel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wheel&lt;/a&gt; (.whl)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Alternative&lt;/em&gt;: &lt;a href=&#34;https://github.com/sdispater/poetry&#34;&gt;Poetry&lt;/a&gt; (does dependency+package management)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Alternative&lt;/em&gt;: &lt;a href=&#34;https://github.com/sdispater/poetry&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Poetry&lt;/a&gt; (does dependency+package management)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;CI tasks
 &lt;ul&gt;
-&lt;li&gt;Formatter: &lt;a href=&#34;https://github.com/python/black&#34;&gt;Black&lt;/a&gt;
+&lt;li&gt;Formatter: &lt;a href=&#34;https://github.com/python/black&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Black&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Alternative&lt;/em&gt;: &lt;a href=&#34;https://github.com/google/yapf&#34;&gt;YAPF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Alternative&lt;/em&gt;: &lt;a href=&#34;https://github.com/google/yapf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YAPF&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Linters
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/PyCQA/pycodestyle&#34;&gt;pycodestyle&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/PyCQA/pydocstyle&#34;&gt;pydocstyle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PyCQA/pycodestyle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pycodestyle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PyCQA/pydocstyle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pydocstyle&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Static analyzers
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/PyCQA/pyflakes&#34;&gt;PyFlakes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/PyCQA/pylint&#34;&gt;Pylint&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/PyCQA/mccabe&#34;&gt;McCabe&#39;s script&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PyCQA/pyflakes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyFlakes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PyCQA/pylint&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pylint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PyCQA/mccabe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;McCabe&amp;rsquo;s script&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Documentation: &lt;a href=&#34;http://www.sphinx-doc.org/en/master/&#34;&gt;Sphinx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentation: &lt;a href=&#34;http://www.sphinx-doc.org/en/master/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sphinx&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Unit/Feature tests
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.pytest.org/en/latest/&#34;&gt;Pytest&lt;/a&gt; with the following plugins
+&lt;li&gt;&lt;a href=&#34;https://docs.pytest.org/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pytest&lt;/a&gt; with the following plugins
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pytest-dev/pytest-asyncio&#34;&gt;pytest-asyncio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pytest-dev/pytest-bdd&#34;&gt;pytest-bdd&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pytest-dev/pytest-cov&#34;&gt;pytest-cov&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pytest-dev/pytest-mock/&#34;&gt;pytest-mock&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pytest-dev/pytest-rerunfailures&#34;&gt;pytest-rerunfailures&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/miketheman/pytest-socket&#34;&gt;pytest-socket&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/pytest-dev/pytest-xdist&#34;&gt;pytest-xdist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pytest-dev/pytest-asyncio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pytest-asyncio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pytest-dev/pytest-bdd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pytest-bdd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pytest-dev/pytest-cov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pytest-cov&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pytest-dev/pytest-mock/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pytest-mock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pytest-dev/pytest-rerunfailures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pytest-rerunfailures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/miketheman/pytest-socket&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pytest-socket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pytest-dev/pytest-xdist&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pytest-xdist&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Coverage: &lt;a href=&#34;https://github.com/nedbat/coveragepy&#34;&gt;coverage.py&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Coverage: &lt;a href=&#34;https://github.com/nedbat/coveragepy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;coverage.py&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Maintenance tasks automation: &lt;a href=&#34;https://github.com/pyinvoke/invoke&#34;&gt;Invoke&lt;/a&gt; + &lt;a href=&#34;https://github.com/theacodes/nox&#34;&gt;Nox&lt;/a&gt;
+&lt;li&gt;Maintenance tasks automation: &lt;a href=&#34;https://github.com/pyinvoke/invoke&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Invoke&lt;/a&gt; + &lt;a href=&#34;https://github.com/theacodes/nox&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nox&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Alternative&lt;/em&gt;: &lt;a href=&#34;https://github.com/scrapd/scrapd/blob/master/Makefile&#34;&gt;Makefile&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Alternative&lt;/em&gt;: &lt;a href=&#34;https://tox.readthedocs.io/en/latest/&#34;&gt;Tox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Alternative&lt;/em&gt;: &lt;a href=&#34;https://github.com/scrapd/scrapd/blob/master/Makefile&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Makefile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Alternative&lt;/em&gt;: &lt;a href=&#34;https://tox.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tox&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;remarks&#34;&gt;Remarks&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/PyCQA/flake8&#34;&gt;Flake8&lt;/a&gt; can be used as a wrapper for PyFlakes, pycodestyle, and Ned Batchelder&#39;s McCabe script.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PyCQA/flake8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flake8&lt;/a&gt; can be used as a wrapper for PyFlakes, pycodestyle, and Ned Batchelder&amp;rsquo;s McCabe script.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;nodejsreact&#34;&gt;Node.js/React&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;CI Tasks
 &lt;ul&gt;
-&lt;li&gt;Formatter: &lt;a href=&#34;https://prettier.io/&#34;&gt;Prettier&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Linters: &lt;a href=&#34;https://eslint.org/&#34;&gt;ESLint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Formatter: &lt;a href=&#34;https://prettier.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prettier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linters: &lt;a href=&#34;https://eslint.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESLint&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Unit tests:
 &lt;ul&gt;
-&lt;li&gt;Framework: &lt;a href=&#34;https://jestjs.io/&#34;&gt;Jest&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Coverage: &lt;a href=&#34;https://jestjs.io/&#34;&gt;Jest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Framework: &lt;a href=&#34;https://jestjs.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Coverage: &lt;a href=&#34;https://jestjs.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jest&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Maintenance tasks automation
 &lt;ul&gt;
-&lt;li&gt;&lt;code&gt;package.json&lt;/code&gt;: &lt;a href=&#34;https://github.com/scrapd/scrapdviz/blob/master/package.json&#34;&gt;https://github.com/scrapd/scrapdviz/blob/master/package.json&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;package.json&lt;/code&gt;: &lt;a href=&#34;https://github.com/scrapd/scrapdviz/blob/master/package.json&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/scrapd/scrapdviz/blob/master/package.json&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;go&#34;&gt;Go&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Formatter (built-in): &lt;code&gt;goimports&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Linters: &lt;a href=&#34;https://golangci.com/&#34;&gt;golangci-lint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linters: &lt;a href=&#34;https://golangci.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;golangci-lint&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Documentation (built-in): &lt;code&gt;godoc&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Unit tests:
 &lt;ul&gt;
@@ -414,19 +415,19 @@
 &lt;/li&gt;
 &lt;li&gt;Maintenance tasks automation
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://taskfile.dev&#34;&gt;Go Task&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Alternative&lt;/em&gt;: &lt;a href=&#34;https://github.com/magefile/mage&#34;&gt;Mage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://taskfile.dev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Go Task&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Alternative&lt;/em&gt;: &lt;a href=&#34;https://github.com/magefile/mage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mage&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;ruby&#34;&gt;Ruby&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Formatter: &lt;a href=&#34;https://www.rubocop.org/en/stable/&#34;&gt;rubocop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Linters: &lt;a href=&#34;https://www.rubocop.org/en/stable/&#34;&gt;rubocop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Static analyzers: &lt;a href=&#34;https://www.rubocop.org/en/stable/&#34;&gt;rubocop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Documentation: &lt;a href=&#34;https://yardoc.org/&#34;&gt;yard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Unit test: &lt;a href=&#34;https://rspec.info/&#34;&gt;rspec&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Coverage: &lt;a href=&#34;https://github.com/colszowka/simplecov&#34;&gt;simplecov&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Formatter: &lt;a href=&#34;https://www.rubocop.org/en/stable/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rubocop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linters: &lt;a href=&#34;https://www.rubocop.org/en/stable/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rubocop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Static analyzers: &lt;a href=&#34;https://www.rubocop.org/en/stable/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rubocop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentation: &lt;a href=&#34;https://yardoc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;yard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Unit test: &lt;a href=&#34;https://rspec.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rspec&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Coverage: &lt;a href=&#34;https://github.com/colszowka/simplecov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;simplecov&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

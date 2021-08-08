@@ -1,135 +1,93 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/</loc>
+    <lastmod>2021-08-02T00:00:00-06:00</lastmod>
+  </url><url>
+    <loc>/publication-type/4/</loc>
+    <lastmod>2021-08-02T00:00:00-06:00</lastmod>
+  </url><url>
+    <loc>/publication/plastic-collection-point-simulation/</loc>
+    <lastmod>2021-08-02T00:00:00-06:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-08-02T00:00:00-06:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2021-08-02T00:00:00-06:00</lastmod>
+  </url><url>
+    <loc>/tag/automation/</loc>
     <lastmod>2020-01-05T11:34:59-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/automation/</loc>
-    <lastmod>2020-01-05T11:34:59-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
     <lastmod>2020-01-05T11:34:59-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/project-management/</loc>
+  </url><url>
+    <loc>/tag/project-management/</loc>
     <lastmod>2020-01-05T11:34:59-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/project-management-guidelines/</loc>
     <lastmod>2020-01-05T11:34:59-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/project-standards/</loc>
     <lastmod>2020-01-05T11:34:59-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
     <lastmod>2020-01-05T11:34:59-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/having-fun-maintaining-projects/</loc>
+  </url><url>
+    <loc>/talk/keep-having-fun-maintaning-your-projects/</loc>
     <lastmod>2019-08-12T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
+  </url><url>
+    <loc>/event/</loc>
     <lastmod>2019-08-12T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/aura-atx/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/urbanism/</loc>
+  </url><url>
+    <loc>/tag/urbanism/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/walkable-cities/</loc>
+  </url><url>
+    <loc>/tag/walkable-cities/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/scrapd/</loc>
     <lastmod>2019-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/vision-zero/</loc>
+  </url><url>
+    <loc>/tag/vision-zero/</loc>
     <lastmod>2019-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/ryr-lessons-learned/</loc>
+  </url><url>
+    <loc>/talk/request-yo-racks-lessons-learned/</loc>
     <lastmod>2019-06-03T19:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/public-data-scrapd/</loc>
+  </url><url>
+    <loc>/talk/using-public-data-the-scrapd-case/</loc>
     <lastmod>2019-03-04T19:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/ryr-story/</loc>
+  </url><url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/request-yo-racks-project-leader-story/</loc>
     <lastmod>2018-07-16T19:05:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/biking/</loc>
+  </url><url>
+    <loc>/tag/biking/</loc>
     <lastmod>2017-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/experiment/</loc>
+  </url><url>
+    <loc>/tag/experiment/</loc>
     <lastmod>2017-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/request-yo-racks/</loc>
     <lastmod>2017-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/safety/</loc>
+  </url><url>
+    <loc>/tag/safety/</loc>
     <lastmod>2017-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/admin/</loc>
+  </url><url>
     <loc>/categories/</loc>
   </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-  </url>
-  
 </urlset>

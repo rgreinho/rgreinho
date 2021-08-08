@@ -5,76 +5,12 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2020 11:34:59 -0600</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2020 11:34:59 -0600</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
-    
-    <item>
-      <title>Automation</title>
-      <link>/tags/automation/</link>
-      <pubDate>Sun, 05 Jan 2020 11:34:59 -0600</pubDate>
-      <guid>/tags/automation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project management</title>
-      <link>/tags/project-management/</link>
-      <pubDate>Sun, 05 Jan 2020 11:34:59 -0600</pubDate>
-      <guid>/tags/project-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Urbanism</title>
-      <link>/tags/urbanism/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/urbanism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Walkable cities</title>
-      <link>/tags/walkable-cities/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/walkable-cities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vision Zero</title>
-      <link>/tags/vision-zero/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/vision-zero/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biking</title>
-      <link>/tags/biking/</link>
-      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/biking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Experiment</title>
-      <link>/tags/experiment/</link>
-      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/experiment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Safety</title>
-      <link>/tags/safety/</link>
-      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/safety/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vision Zero | </title>
+    <link>/tag/vision-zero/</link>
+      <atom:link href="/tag/vision-zero/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vision Zero</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Vision Zero</title>
+      <link>/tag/vision-zero/</link>
+    </image>
+    
+    <item>
+      <title>ScrAPD</title>
+      <link>/project/scrapd/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/project/scrapd/</guid>
+      <description>&lt;p&gt;ScrAPD is a collection of tools to automatically collect information about traffic fatalities in the city of Austin, TX and render it on a modern dashboard.&lt;/p&gt;
+&lt;p&gt;The goal of the project is to help grassroots organizations, local communities and individuals advocate in favor of the Vision Zero program.&lt;/p&gt;
+&lt;p&gt;We believe that representing this information on graphs and maps helps people better understand the importance of this plague and feel more involved to address the issue.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | </title>
+    <link>/event/</link>
+      <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Aug 2019 14:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Talks</title>
+      <link>/event/</link>
+    </image>
+    
+    <item>
+      <title>Keep having fun maintaning your projects</title>
+      <link>/talk/keep-having-fun-maintaning-your-projects/</link>
+      <pubDate>Mon, 12 Aug 2019 14:00:00 +0000</pubDate>
+      <guid>/talk/keep-having-fun-maintaning-your-projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Request Yo Racks: Lessons Learned</title>
+      <link>/talk/request-yo-racks-lessons-learned/</link>
+      <pubDate>Mon, 03 Jun 2019 19:15:00 +0000</pubDate>
+      <guid>/talk/request-yo-racks-lessons-learned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Public Data: The ScrAPD case</title>
+      <link>/talk/using-public-data-the-scrapd-case/</link>
+      <pubDate>Mon, 04 Mar 2019 19:15:00 +0000</pubDate>
+      <guid>/talk/using-public-data-the-scrapd-case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Request Yo Racks: Project Leader Story</title>
+      <link>/talk/request-yo-racks-project-leader-story/</link>
+      <pubDate>Mon, 16 Jul 2018 19:05:00 +0000</pubDate>
+      <guid>/talk/request-yo-racks-project-leader-story/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

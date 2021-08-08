@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automation | </title>
+    <link>/tag/automation/</link>
+      <atom:link href="/tag/automation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Automation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2020 11:34:59 -0600</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Automation</title>
+      <link>/tag/automation/</link>
+    </image>
+    
+    <item>
+      <title>Project management guidelines</title>
+      <link>/post/project-management-guidelines/</link>
+      <pubDate>Sun, 05 Jan 2020 11:34:59 -0600</pubDate>
+      <guid>/post/project-management-guidelines/</guid>
+      <description>&lt;p&gt;These guidelines are a collection of concepts gathered from leading several projects in a work environment or with volunteers.&lt;/p&gt;
+&lt;p&gt;They are mainly targeting volunteering projects, but the ideas can be applicable to other situations as well.&lt;/p&gt;
+&lt;h2 id=&#34;when-you-are-thinking-of-starting&#34;&gt;When you are thinking of starting&lt;/h2&gt;
+&lt;p&gt;Starting a project is an amazing endeavor, but it requires a bit of planning and preparation beforehand. Here is a list of items you should consider first.&lt;/p&gt;
+&lt;h3 id=&#34;time-management&#34;&gt;Time management&lt;/h3&gt;
+&lt;p&gt;Time is your most precious asset. Manage it wisely! Make sure that you show you value the time of your contributors as well.&lt;/p&gt;
+&lt;h4 id=&#34;time-box-the-effort-regularly&#34;&gt;Time box the effort regularly&lt;/h4&gt;
+&lt;p&gt;Procrastination is the enemy of success. To defeat it, make sure that you work routinely on your project. No excuses. Simply saying &amp;ldquo;I&amp;rsquo;ll work on it during my free time&amp;rdquo; is a recipe for failure. People don&amp;rsquo;t magically &amp;ldquo;have&amp;rdquo; time. You need to make the time for things that matter. And your project should matter!&lt;/p&gt;
+&lt;p&gt;It is better to work 4 times for 1 hour, than 1 time for 4 hours. Set a recurring time slot in your calendar. Be consistent.&lt;/p&gt;
+&lt;h4 id=&#34;set-deadlines-for-releases&#34;&gt;Set deadlines for releases&lt;/h4&gt;
+&lt;p&gt;This will help you and your contributors to gauge the progress more easily. It also helps with goals and the &lt;a href=&#34;https://www.time-management-success.com/parkinsons-law.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Parkinson&amp;rsquo;s law&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Remember to release often. Don&amp;rsquo;t wait for the perfect project.&lt;/p&gt;
+&lt;h4 id=&#34;define-milestones&#34;&gt;Define milestones&lt;/h4&gt;
+&lt;p&gt;Releases can be broken down into milestones. It will provide a better sense of achievement as people will be able to visually connect the percentage of advancement and the number of opened/closed issues to the state of your project.&lt;/p&gt;
+&lt;p&gt;You can see milestones as a group of issues targeting a similar goal.&lt;/p&gt;
+&lt;p&gt;Combine it to a completion date and contributors can now associate the workload (done or left) with an amount of days. This information can be used to take the pulse of the project. An active project is more attractive to new contributors.&lt;/p&gt;
+&lt;p&gt;A byproduct of using milestones is that you can often see them as mini releases! Leverage them to release often.&lt;/p&gt;
+&lt;h3 id=&#34;set-up-a-budget&#34;&gt;Set up a budget&lt;/h3&gt;
+&lt;p&gt;A project&amp;rsquo;s price can quickly become exorbitant if you don&amp;rsquo;t manage it properly; it does not have to be.&lt;/p&gt;
+&lt;p&gt;Your project will need a domain name (~$14/year). You do not need to get it right away, but you must be ready to get it when you will need it. Some people like to secure it as soon as possible, others only if/when they have something to show. That should be your only initial expenditure. And possibly the only one at all, at least until you have a growing proof of concept.&lt;/p&gt;
+&lt;p&gt;As your project grows, you may need to start using paying services and cloud computing resources. Be sure to monitor their costs.  There are tools to accurately compute how much the infrastructure would cost you. Do NOT ignore them!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://calculator.s3.amazonaws.com/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AWS Simple Monthly calculator&lt;/a&gt;, soon being replaced by &lt;a href=&#34;https://calculator.aws/#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AWS Pricing Calculator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/products/calculator/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Cloud pricing calculator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://azure.microsoft.com/en-us/pricing/calculator/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Azure pricing calculator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;not-all-contributors-will-be-senior-software-engineers&#34;&gt;Not all contributors will be senior software engineers&lt;/h3&gt;
+&lt;p&gt;Contributors will have a wide range of skills. Use this to the advantage of your project. But to do so, you need to be able to accommodate all sorts of profiles.&lt;/p&gt;
+&lt;p&gt;Junior people will come to learn how to collaborate to a project, to learn to work with people they may never meet in person, to tinker with a specific technology or library. There are tons of motivations that can drive contributors to your project.&lt;/p&gt;
+&lt;p&gt;For this reason, do the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Make it easy for people to get onboarded.
+&lt;ul&gt;
+&lt;li&gt;Automate all the setup tasks using scripts/tools.&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t write pages of instructions in a wiki. A few lines at most should get people started.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Prepare all sorts of tasks. It is very unlikely that your project requires only experienced developers. Offer work from graphic design to coding, via documentation, to anything else helpful.&lt;/li&gt;
+&lt;li&gt;Prepare easy assignments. They may seem absurd to you, but they are very beneficial to onboard newcomers.&lt;/li&gt;
+&lt;li&gt;Prepare harder assignments. More experienced contributors are often attracted by challenges&lt;/li&gt;
+&lt;li&gt;Think about non tech savvy people &amp;ndash; all backgrounds&lt;/li&gt;
+&lt;li&gt;Think about all levels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;be-ready-to-learn&#34;&gt;Be ready to learn&lt;/h3&gt;
+&lt;p&gt;You may not have all the expertise, nor the perfect team required to bring your project to completion. Take some of the time slots you allocated to work on the project and re-assign them to learning time. This is your opportunity to sharpen your own saw.&lt;/p&gt;
+&lt;p&gt;Use all the resources available to you and not only the tutorials you can find on the net. Think about local meetups (which may also be good to spread the word about your project), online universities or education sites, and also people at your work place.&lt;/p&gt;
+&lt;h3 id=&#34;be-ready-to-teach&#34;&gt;Be ready to teach&lt;/h3&gt;
+&lt;p&gt;To work on your project, you have accumulated knowledge that may help other people work with you. Share it!&lt;/p&gt;
+&lt;p&gt;Organize mini workshops on a specific topic. Plan some beginner topics (i.e. &amp;ldquo;using git and github&amp;rdquo;) to ensure everybody in your team has solid foundations. At some point you will be able to assume it and things will move faster. More advanced contributors may be bored if you focus solely on the fundamentals. Prepare some more advanced material (i.e. &amp;ldquo;profiling&amp;rdquo;, advanced testing methods). Involve them in the process and ask them to train others too! Their skills will also be beneficial to yourself, a win-win situation.&lt;/p&gt;
+&lt;h3 id=&#34;put-automation-in-your-mindset&#34;&gt;Put automation in your mindset&lt;/h3&gt;
+&lt;p&gt;Repeat after me: Automation is my best ally!&lt;/p&gt;
+&lt;p&gt;Automation frees you from repetitive and boring tasks, but also helps you scale your efforts. Any task that can be automated should be automated. Even if the first time it does not seem to make too much sense, next time you have to redo it you will thank yourself.&lt;/p&gt;
+&lt;p&gt;It also ensures consistency when tasks are repeated.&lt;/p&gt;
+&lt;h3 id=&#34;remember-to-have-fun&#34;&gt;Remember to Have fun&lt;/h3&gt;
+&lt;p&gt;There are way too many reasons to get stressed out in life. Your project must not be one.&lt;/p&gt;
+&lt;p&gt;Granted that it cannot be a constant source of joy, your new team and challenges must energize you without keeping you up at night. If it becomes the case, take a step back, relax and request more help. If you succeeded to create good relationships with your members, it is most likely that your new team will want to support you.&lt;/p&gt;
+&lt;h2 id=&#34;when-you-are-ready-to-start&#34;&gt;When you are ready to start&lt;/h2&gt;
+&lt;h3 id=&#34;make-sure-to-have&#34;&gt;Make sure to have&amp;hellip;&lt;/h3&gt;
+&lt;h4 id=&#34;a-strong-relationship-with-your-stakeholders&#34;&gt;&amp;hellip;a strong relationship with your stakeholder(s)&lt;/h4&gt;
+&lt;p&gt;The stakeholders are the people who will benefit from your project. It is important to establish a good relationship with them. They will contribute to your project by providing feedback, asking for new features and even promoting the project.&lt;/p&gt;
+&lt;p&gt;Without stakeholders, there is usually no point of starting a project, unless it is for an educational purpose.&lt;/p&gt;
+&lt;h4 id=&#34;a-deployment-plan-to-start-small-but-with-a-strategy-to-go-big&#34;&gt;&amp;hellip;a deployment plan to start small but with a strategy to go big&lt;/h4&gt;
+&lt;p&gt;Your project must live somewhere, from its inception to its end of life. Between these two events your needs will evolve. So will your infrastructure. It makes no sense to start with a design supporting millions of users.&lt;/p&gt;
+&lt;p&gt;However, you should start with a simple infrastructure, and make it grow as your requirements change.&lt;/p&gt;
+&lt;h4 id=&#34;a-way-to-publish-your-work-from-the-very-early-stages&#34;&gt;&amp;hellip;a way to publish your work from the very early stages&lt;/h4&gt;
+&lt;p&gt;Even if your outcome is meaningless when you just begin your new endeavor, by building the full deployment pipelines, you will ensure that the future and more relevant versions will be published as soon as they are ready.&lt;/p&gt;
+&lt;p&gt;It also helps building confidence with your crew as you ensure they will be able to show off the result of their work.&lt;/p&gt;
+&lt;h3 id=&#34;define-core-values&#34;&gt;Define core values&lt;/h3&gt;
+&lt;p&gt;Your values must reflect your ethics. You must also make sure your contributors benefit from them while working with you.&lt;/p&gt;
+&lt;p&gt;Example: Have fun, meet people, learn new things&lt;/p&gt;
+&lt;h3 id=&#34;define-simple-rules&#34;&gt;Define simple rules&lt;/h3&gt;
+&lt;p&gt;A set of simple rules will be useful to set expectations with your future collaborators. They must define the principles you value the most. Keep the list short, but make sure the rules are enforced (preferably using automation).&lt;/p&gt;
+&lt;p&gt;Example: Everything must be automated, everything must be tested, everything must be documented&lt;/p&gt;
+&lt;h3 id=&#34;define-project-standards&#34;&gt;Define project standards&lt;/h3&gt;
+&lt;p&gt;They will help you formalize and express your needs for setting up a project, as well as ensure consistency between the various pieces. Creating a sense of uniformity will make things simpler for your contributors and increase their participation rate.&lt;/p&gt;
+&lt;h2 id=&#34;at-the-very-beginning-of-the-process&#34;&gt;At the very beginning of the process&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Set expectations
+&lt;ul&gt;
+&lt;li&gt;Use your core values and rules&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Organize the projects
+&lt;ul&gt;
+&lt;li&gt;Be consistent across all projects
+&lt;ul&gt;
+&lt;li&gt;Use consistent labels to categorize your issues across all projects&lt;/li&gt;
+&lt;li&gt;Create teams&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Implement your standards
+&lt;ul&gt;
+&lt;li&gt;Use scaffolding (i.e. cookiecutter)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Automate everything you can
+&lt;ul&gt;
+&lt;li&gt;Use a CI system&lt;/li&gt;
+&lt;li&gt;Use mergify&lt;/li&gt;
+&lt;li&gt;Use stale bot&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Acquire a domain name&lt;/li&gt;
+&lt;li&gt;Design a logo or a mascot&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;during-the-development-process&#34;&gt;During the development process&lt;/h2&gt;
+&lt;h3 id=&#34;build-your-team&#34;&gt;Build your team&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Reward your members by promoting them
+&lt;ul&gt;
+&lt;li&gt;Don&amp;rsquo;t feel worried about doing so
+&lt;ul&gt;
+&lt;li&gt;Nothing can really happen to your project&lt;/li&gt;
+&lt;li&gt;Worst case scenario you should be able to revert anything bad&lt;/li&gt;
+&lt;li&gt;There are probably multiple up to date copies of your project around&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;It usually means a lot to the contributors!&lt;/li&gt;
+&lt;li&gt;Organization members &amp;ndash; read-only access
+&lt;ul&gt;
+&lt;li&gt;After a few relevant actions (couple PRs and/or reviews, attending meetings, etc.)&lt;/li&gt;
+&lt;li&gt;Not associated to a team yet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Co-maintainers &amp;ndash; write access
+&lt;ul&gt;
+&lt;li&gt;After more significant actions
+&lt;ul&gt;
+&lt;li&gt;At this point the member&amp;rsquo;s involvement in the project is trusted&lt;/li&gt;
+&lt;li&gt;Be sure that the member can start doing meaningful code reviews, on-boarding and advocating for the project&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Only members of specific teams gain write access&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;your-project-is-not-everything&#34;&gt;Your project is not everything!&lt;/h3&gt;
+&lt;p&gt;While you may live and breathe your project, it is critical to keep having a good time with your team and sometimes think about something else!&lt;/p&gt;
+&lt;p&gt;Organize events, go to a bar, a movie, go volunteer with other organizations dealing with a completely different problem (plant trees, distribute food with your local food bank, etc.).&lt;/p&gt;
+&lt;h2 id=&#34;checklists&#34;&gt;Checklists&lt;/h2&gt;
+&lt;h3 id=&#34;when-you-are-thinking-of-starting-1&#34;&gt;When you are thinking of starting&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Define a recurring time slot in your calendar&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Define project deadline(s)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Define project milestones&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Setup a budget&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Think about all profiles of contributors&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Make sure you are prepared to teach&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Think automation&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Don&amp;rsquo;t forget to have fun&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;when-you-are-ready-to-start-1&#34;&gt;When you are ready to start&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Relationship with stakeholder(s)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Deployment plan&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Release pipeline&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Core values&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Minimal set of rules&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Project standards&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;at-the-very-beginning-of-the-process-1&#34;&gt;At the very beginning of the process&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Set expectations&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Organize the project in a consistent and repeatable fashion&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Acquire a domain name&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Design a logo or a mascot&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;during-the-development-process-1&#34;&gt;During the development process&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Build your team&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Clear your mind&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project Standards</title>
+      <link>/post/project-standards/</link>
+      <pubDate>Sun, 05 Jan 2020 11:34:59 -0600</pubDate>
+      <guid>/post/project-standards/</guid>
+      <description>&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;p&gt;The goal of this document is to provide the developers with clear guidelines to manage their projects.&lt;/p&gt;
+&lt;p&gt;It is important to emphasize that the usage of specific tools will not be enforced, except for special cases (i.e. docker for containers), but instead the concepts will have to be implemented (i.e. projects must provide unit tests).&lt;/p&gt;
+&lt;p&gt;To allow the developers to start quickly, generators will be provided when applicable.&lt;/p&gt;
+&lt;h2 id=&#34;standards&#34;&gt;Standards&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Service API must be defined using the &lt;a href=&#34;https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.2.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenAPI 3+ specification&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Zalando provides very good &lt;a href=&#34;https://opensource.zalando.com/restful-api-guidelines/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RESTful API Guidelines&lt;/a&gt; worth following&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Projects must provide a way to build artifacts using standard tools (i.e. no custom scripts made for a specific machine/environment)
+&lt;ul&gt;
+&lt;li&gt;a package or binary depending on the language&lt;/li&gt;
+&lt;li&gt;a docker image&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Projects must comply with CI tasks
+&lt;ul&gt;
+&lt;li&gt;Formatter&lt;/li&gt;
+&lt;li&gt;Linters
+&lt;ul&gt;
+&lt;li&gt;Code&lt;/li&gt;
+&lt;li&gt;Docstrings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Static analyzers&lt;/li&gt;
+&lt;li&gt;Documentation&lt;/li&gt;
+&lt;li&gt;Unit/Feature tests&lt;/li&gt;
+&lt;li&gt;Coverage
+&lt;ul&gt;
+&lt;li&gt;Reaching 100% coverage is not the end goal&lt;/li&gt;
+&lt;li&gt;Must never regress&lt;/li&gt;
+&lt;li&gt;Think about your teammates who worked on increasing this coverage&lt;/li&gt;
+&lt;li&gt;Use online services like &lt;a href=&#34;https://coveralls.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://coveralls.io&lt;/a&gt; or &lt;a href=&#34;https://codecov.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://codecov.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Use feature tests
+&lt;ul&gt;
+&lt;li&gt;Try to cover 100% of use cases
+&lt;ul&gt;
+&lt;li&gt;This is more important the unit test coverage&lt;/li&gt;
+&lt;li&gt;It will end up increasing unit test coverage anywway&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Projects must include a Changelog following the &amp;ldquo;Keep a Changelog&amp;rdquo; recommendation (&lt;a href=&#34;https://keepachangelog.com/en/1.0.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://keepachangelog.com/en/1.0.0&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Project must adhere to &lt;a href=&#34;https://semver.org/spec/v2.0.0.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Semantic Versioning&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Or &lt;a href=&#34;https://calver.org%3e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calendar Versioning&lt;/a&gt; if it makes more sense.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Projects must use Issues and Pull Request templates&lt;/li&gt;
+&lt;li&gt;Projects must use meaningful labels&lt;/li&gt;
+&lt;li&gt;Projects must be documented&lt;/li&gt;
+&lt;li&gt;Projects must automate all their maintenance tasks
+&lt;ul&gt;
+&lt;li&gt;Must ensure reproducibility&lt;/li&gt;
+&lt;li&gt;A Makefile or a package.json at the root of the project is a good example of how to automate maintenance tasks. The commands must be backed by a set of bash scripts (instead of being written inline).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;recommendation-per-language&#34;&gt;Recommendation per language&lt;/h2&gt;
+&lt;p&gt;Recommendations are provided to help the developers choose the right tool for the right task without spending too much time on the research phase.&lt;/p&gt;
+&lt;h3 id=&#34;all&#34;&gt;All&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/scrapd/scrapd/blob/master/CHANGELOG.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Changelog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Project templates
+&lt;ul&gt;
+&lt;li&gt;Github
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/scrapd/scrapd/blob/master/.github/ISSUE_TEMPLATE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Issues&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/scrapd/scrapd/blob/master/.github/PULL_REQUEST_TEMPLATE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pull Requests&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/scrapd/scrapd/blob/master/.github/CONTRIBUTING.rst&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contributing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://editorconfig.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EditorConfig&lt;/a&gt; to standardize editor configurations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;python&#34;&gt;Python&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Project source layout&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;.
+├── CHANGELOG.md
+├── Dockerfile
+├── LICENSE
+├── README.rst
+├── assets
+│   └── logos
+├── code-of-conduct.md
+├── contrib
+│   └── scrapd-complete.sh
+├── contributors.md
+├── docs
+│   └── source
+├── noxfile.py
+├── requirements-dev.txt
+├── requirements.txt
+├── scrapd
+│   ├── __init__.py
+│   ├── cli
+│   ├── core
+│   └── main.py
+├── setup.cfg
+├── setup.py
+├── tasks.py
+└── tests
+    ├── __init__.py
+    ├── core
+    ├── data
+    ├── features
+    ├── mock_data.py
+    ├── step_defs
+    └── test_common.py
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Packaging
+&lt;ul&gt;
+&lt;li&gt;Use &lt;a href=&#34;https://docs.openstack.org/pbr/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PBR&lt;/a&gt; to create a package
+&lt;ul&gt;
+&lt;li&gt;Package the application as a &lt;a href=&#34;https://pypi.org/project/wheel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wheel&lt;/a&gt; (.whl)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Alternative&lt;/em&gt;: &lt;a href=&#34;https://github.com/sdispater/poetry&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Poetry&lt;/a&gt; (does dependency+package management)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;CI tasks
+&lt;ul&gt;
+&lt;li&gt;Formatter: &lt;a href=&#34;https://github.com/python/black&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Black&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Alternative&lt;/em&gt;: &lt;a href=&#34;https://github.com/google/yapf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YAPF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Linters
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PyCQA/pycodestyle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pycodestyle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PyCQA/pydocstyle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pydocstyle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Static analyzers
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PyCQA/pyflakes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyFlakes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PyCQA/pylint&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pylint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PyCQA/mccabe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;McCabe&amp;rsquo;s script&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Documentation: &lt;a href=&#34;http://www.sphinx-doc.org/en/master/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sphinx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Unit/Feature tests
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.pytest.org/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pytest&lt;/a&gt; with the following plugins
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pytest-dev/pytest-asyncio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pytest-asyncio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pytest-dev/pytest-bdd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pytest-bdd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pytest-dev/pytest-cov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pytest-cov&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pytest-dev/pytest-mock/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pytest-mock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pytest-dev/pytest-rerunfailures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pytest-rerunfailures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/miketheman/pytest-socket&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pytest-socket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/pytest-dev/pytest-xdist&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pytest-xdist&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Coverage: &lt;a href=&#34;https://github.com/nedbat/coveragepy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;coverage.py&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Maintenance tasks automation: &lt;a href=&#34;https://github.com/pyinvoke/invoke&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Invoke&lt;/a&gt; + &lt;a href=&#34;https://github.com/theacodes/nox&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nox&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Alternative&lt;/em&gt;: &lt;a href=&#34;https://github.com/scrapd/scrapd/blob/master/Makefile&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Makefile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Alternative&lt;/em&gt;: &lt;a href=&#34;https://tox.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;remarks&#34;&gt;Remarks&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/PyCQA/flake8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flake8&lt;/a&gt; can be used as a wrapper for PyFlakes, pycodestyle, and Ned Batchelder&amp;rsquo;s McCabe script.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;nodejsreact&#34;&gt;Node.js/React&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CI Tasks
+&lt;ul&gt;
+&lt;li&gt;Formatter: &lt;a href=&#34;https://prettier.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prettier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linters: &lt;a href=&#34;https://eslint.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESLint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Unit tests:
+&lt;ul&gt;
+&lt;li&gt;Framework: &lt;a href=&#34;https://jestjs.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Coverage: &lt;a href=&#34;https://jestjs.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Maintenance tasks automation
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;package.json&lt;/code&gt;: &lt;a href=&#34;https://github.com/scrapd/scrapdviz/blob/master/package.json&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/scrapd/scrapdviz/blob/master/package.json&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;go&#34;&gt;Go&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Formatter (built-in): &lt;code&gt;goimports&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Linters: &lt;a href=&#34;https://golangci.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;golangci-lint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentation (built-in): &lt;code&gt;godoc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Unit tests:
+&lt;ul&gt;
+&lt;li&gt;Framework: go test (built-in): &lt;code&gt;go test -v -cover -coverprofile=coverage.out  ./...&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Coverage: go tool (built-in): &lt;code&gt;go tool cover -html=coverage.out&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Maintenance tasks automation
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://taskfile.dev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Go Task&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Alternative&lt;/em&gt;: &lt;a href=&#34;https://github.com/magefile/mage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mage&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ruby&#34;&gt;Ruby&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Formatter: &lt;a href=&#34;https://www.rubocop.org/en/stable/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rubocop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linters: &lt;a href=&#34;https://www.rubocop.org/en/stable/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rubocop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Static analyzers: &lt;a href=&#34;https://www.rubocop.org/en/stable/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rubocop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Documentation: &lt;a href=&#34;https://yardoc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;yard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Unit test: &lt;a href=&#34;https://rspec.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rspec&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Coverage: &lt;a href=&#34;https://github.com/colszowka/simplecov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;simplecov&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
